@@ -1,7 +1,7 @@
 
-# Socket.IO Chat
+# Oalia Chat 
 
-A simple chat demo for socket.io
+A simple chat demo for Oalia
 
 ## How to use
 
